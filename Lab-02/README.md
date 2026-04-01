@@ -14,6 +14,6 @@
 * Displayed the switch MAC address table.
 * Established ping connections between all devices in the network and confimed registration of all required MAC address on the addresing table of individual switches.
 ## Topology & Source Files
-[**Download Packet Tracer File (.pkt)**](viewing the switch MAC address table.pkt)
+[**Download Packet Tracer File (.pkt)**](viewing-the-switch-MAC-address-table.pkt)
 
 <img width="1919" height="1007" alt="Screenshot 2026-04-02 001700" src="https://github.com/user-attachments/assets/8dbdf304-583d-4e4f-b7f5-dc163fd816bb" />
